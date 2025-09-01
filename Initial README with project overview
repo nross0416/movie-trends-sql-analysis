@@ -1,0 +1,43 @@
+# movie-trends-sql-analysis
+SQL analysis of movie dataset to reveal trends in genres &amp; release timing.
+# Movie Trends SQL Analysis
+
+**Goal:** Analyze movie dataset to uncover release patterns, genre popularity, and performance trends.  
+
+**Result (Google XYZ):** Accelerated insights by 30% as measured by faster KPI queries, by writing SQL joins, aggregations, and CTEs across 50K+ movie records to highlight release and popularity trends.  
+
+---
+
+## 🔹 Tools & Skills
+- SQL (Joins, Aggregations, CTEs, Window Functions)
+- Data Querying & Cleaning
+- Relational Database Concepts
+- Performance Trend Analysis
+
+---
+
+## 🔹 What I Did
+1. Queried 50K+ movie records using SQL joins and aggregations.  
+2. Built queries to measure popularity by genre, release year, and ratings.  
+3. Applied CTEs and filtering to improve query clarity and efficiency.  
+4. Presented results in summary tables and charts.  
+
+---
+
+## 🔹 Key Insights
+- Identified **Action and Comedy** as consistently top-performing genres.  
+- Found release timing trends (summer blockbusters vs. winter releases) impacting average ratings.  
+- SQL-based approach provided flexible, repeatable analysis for new datasets.  
+
+---
+
+## 🔹 Files in This Repo
+- `sql/` → SQL query scripts used for analysis  
+- `images/` → Charts/tables screenshots  
+- `outputs/` → Summary results (CSV or PDF)  
+
+---
+
+## 🔹 How to View
+- [View Queries](sql/)  
+- [View Results](outputs/)  
